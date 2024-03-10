@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Raisha Bianca Putri Bagus Pertemuan  4</string>
+    <string name="appName">Rock Paper Scissors</string>
+    <string name="enter">Enter</string>
+    <string name="masukkan_namamu">Masukkan Namamu</string>
+    <string name="nama">Nama :</string>
+    <string name="greeting_template">Hello, %s. Are You Ready To Play ?</string>
+</resources>
