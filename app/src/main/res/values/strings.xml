@@ -5,4 +5,11 @@
     <string name="masukkan_namamu">Masukkan Namamu</string>
     <string name="nama">Nama :</string>
     <string name="greeting_template">Hello, %s. Are You Ready To Play ?</string>
+    <string name="start">Start</string>
+    <string name="score_s">score : %s</string>
+    <string name="rock">rock</string>
+    <string name="paper">paper</string>
+    <string name="scissors">scissors</string>
+    <string name="description">description</string>
+    <string name="computer_move_s">Computer Move</string>
 </resources>
