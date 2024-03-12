@@ -14,11 +14,9 @@ public class MainMenu extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_menu);
 
-        // Receive data from Intent
         Intent intent = getIntent();
         String name = intent.getStringExtra("key");
 
-        // Display received data in TextView
         TextView greetingTextView = findViewById(R.id.greetingTextView);
         String greetingMessage = String.format(getString(R.string.greeting_template), name);
         greetingTextView.setText(greetingMessage);
